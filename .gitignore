@@ -1,0 +1,17 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
