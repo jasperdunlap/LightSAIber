@@ -1,4 +1,4 @@
-# Jasper's Mace Windu Light Saber 🗡️💜
+# Jasper's AI Light Saber 🗡️💜
 
 A WS2812B NeoPixel light saber built with Arduino Nano - featuring the legendary deep purple of Jedi Master Mace Windu!
 
